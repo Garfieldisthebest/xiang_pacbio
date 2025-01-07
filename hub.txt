@@ -1,0 +1,5 @@
+hub pacbioIsoformsHub
+shortLabel PacBio Isoforms Hub
+longLabel PacBio Isoforms Track Hub
+genomesFile genomes.txt
+email wzhao@lji.o0rg

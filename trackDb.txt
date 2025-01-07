@@ -1,0 +1,6 @@
+track pacbioAR01
+type bam
+shortLabel AR01 Isoforms
+longLabel PacBio AR01 Mapped Isoforms
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-mapped.bam
+visibility pack
