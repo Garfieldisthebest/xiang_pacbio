@@ -1,2 +1,0 @@
-genome mm39
-trackDb trackDb.txt
