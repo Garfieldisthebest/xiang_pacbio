@@ -1,6 +1,51 @@
 track pacbioAR01
 type bam
 shortLabel AR01 Isoforms
-longLabel PacBio AR01 Mapped Isoforms
+longLabel mixed
 bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-mapped.bam
+visibility pack
+
+track pacbioAR01
+type bam
+shortLabel AR01_XL1 Isoforms
+longLabel XL1
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-flnc_XL1_mapped.bam
+visibility pack
+
+
+track pacbioAR01
+type bam
+shortLabel AR01_XL2 Isoforms
+longLabel XL2
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-flnc_XL2_mapped.bam
+visibility pack
+
+
+track pacbioAR01
+type bam
+shortLabel AR01_XL3 Isoforms
+longLabel XL3
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-flnc_XL3_mapped.bam
+visibility pack
+
+track pacbioAR01
+type bam
+shortLabel AR01_XL4 Isoforms
+longLabel XL4
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-flnc_XL4_mapped.bam
+visibility pack
+
+track pacbioAR01
+type bam
+shortLabel AR01_XL5 Isoforms
+longLabel XL5
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-flnc_XL5_mapped.bam
+visibility pack
+
+
+track pacbioAR01
+type bam
+shortLabel AR01_XL6 Isoforms
+longLabel XL6
+bigDataUrl https://ucscgenome.s3.us-east-2.amazonaws.com/AR01-flnc_XL6_mapped.bam
 visibility pack
